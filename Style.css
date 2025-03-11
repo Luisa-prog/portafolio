@@ -152,7 +152,7 @@ nav ul li a:hover {
     transform: translateY(0);
 
 }
-.sobre-mi {
+#sobre-mi {
     background-color: black;
     display:grid;
     height: 100vh;
@@ -161,7 +161,7 @@ nav ul li a:hover {
     padding: 0 20px;
     text-align: center;
 }
-.proyecto{
+#proyecto{
     display: grid;
     justify-content: center;
     grid-template-columns: 1fr 1fr;
@@ -231,9 +231,9 @@ padding:20px;
     top: 30px;
 }
 
-#pc-icon {
-    mix-blend-mode: multiply;
-    width:700px;
+.Inicio1 {
+
+    width:900px;
     height:400px;
 
 }
